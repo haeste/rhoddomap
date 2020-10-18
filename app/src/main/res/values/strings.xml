@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RhoddoMap</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="dialog_select_tree">Is this rhododendron ponticum?</string>
+    <string name='is_rhoddo'>Yes</string>
+    <string name='not_rhoddo'>No</string>
+</resources>
